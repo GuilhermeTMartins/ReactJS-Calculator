@@ -1,0 +1,46 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color:black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.orange{
+    background-color: #f9a800;
+    color: white;
+}
+
+.red{
+    background-color: #ff0000;
+    color: white;
+}
+
+.white{
+    background-color: #f8f2de;
+}
+
+.zero{
+    width: 6.6em;
+    padding-left: 1.25em;
+    text-align: left;
+}
+.result{
+    color:#f8f2de;
+    display: flex;
+    justify-content: right;
+    margin-right: 1em;
+    font-size:3.5em;
+}
+
