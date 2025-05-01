@@ -12,6 +12,4 @@ Clean and responsive interface
 
 Basic operations: add, subtract, multiply, divide
 
-Simple error handling (e.g., divide by zero)
-
 Functional components and use of React Hooks (useState)
